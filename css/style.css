@@ -361,7 +361,11 @@ li, ul {
 .intro-inner .intro-content .profile-img img {
     position: absolute;
     top: 50%;
+    left: 50%;
     transform: translate(-75%, -50%) scale(1.5);
+    -ms-transform: translate(-75%, -50%) scale(1.5);
+    -webkit-transform: translate(-75%, -50%) scale(1.5);
+    -moz-transform: translate(-75%, -50%) scale(1.5);
 }
 
 .intro-inner .intro-content h2 {
