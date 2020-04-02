@@ -852,15 +852,15 @@ li, ul {
 /* ====================
   Footer Section
 =======================*/
-.footer-section {
-    position: fixed;
-    width: 100%;
-    bottom: 0;
-    background: url("../img/p-dark.png");
-    text-align: center;
-    padding: 70px 0;
-    z-index: 2;
-}
+/*.footer-section {*/
+/*    position: fixed;*/
+/*    width: 100%;*/
+/*    bottom: 0;*/
+/*    background: url("../img/p-dark.png");*/
+/*    text-align: center;*/
+/*    padding: 70px 0;*/
+/*    z-index: 2;*/
+/*}*/
 
 .footer-section .social-links {
     margin-bottom: 25px;
